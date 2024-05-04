@@ -1,0 +1,9 @@
+*.md linguist-language=MarkDown
+*.yml linguist-language=MarkDown
+*.html linguist-language=MarkDown 
+*.js linguist-language=MarkDown 
+*.xml linguist-language=MarkDown
+*.css linguist-language=MarkDown 
+*.sql linguist-language=MarkDown
+*.uml linguist-language=MarkDown 
+*.cmd linguist-language=MarkDown
